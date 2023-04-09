@@ -58,7 +58,7 @@
                     <button class="btn btn-outline-warning">Hubungi kami</button>
                 </div>
                 <div class="col-sm-6">
-                    <img src="./assets/img/sounds.jpg" alt="gambar sound system" width="500">
+                    <img src="./assets/img/sounds.png" alt="gambar sound system" width="500" class="">
                 </div>
             </div>
         </div>
