@@ -83,9 +83,9 @@
                             lampu panggung dunia, sehingga Anda dapat yakin bahwa Anda mendapatkan produk berkualitas
                             tinggi dan dapat diandalkan.</small></p>
                     <div class="button-warpper">
-                        <button class="btn btn-outline-secondary me-2">YAMAHA DSR 118 </button>
-                        <button class="btn btn-outline-secondary me-2">DSR 115 </button>
-                        <button class="btn btn-outline-secondary me-2">MGP 24X</button>
+                        <button class="btn btn-outline-secondary mt-3 me-2">YAMAHA DSR 118 </button>
+                        <button class="btn btn-outline-secondary mt-3 me-2">DSR 115 </button>
+                        <button class="btn btn-outline-secondary mt-3 me-2">MGP 24X</button>
                     </div>
                 </div>
                 <div class="col-sm-6">
@@ -103,9 +103,9 @@
                     <h5 class="lh-base text-capitalize"><strong>Lampu panggung berkualitas tinggi dari merek terkemuka dunia.</strong></h5>
                     <p class="text-secondary lh-base"><small>Kami memiliki berbagai jenis lampu panggung, termasuk lampu beam moving head, PARLED 54X3 RGBW, lampu strobo, FOLLOWSPOT, PAR 64, Fresnel, HPIT, dan berbagai jenis lampu efek panggung yang dapat digunakan untuk segala kebutuhan event, pentas konser, gathering, seminar, festival, wedding, teater, dan hajatan
                         </small></p>
-                    <button class="btn btn-outline-secondary me-2">Beam Moving Head </button>
-                    <button class="btn btn-outline-secondary me-2">Par 64 </button>
-                    <button class="btn btn-outline-secondary me-2">Fresnel</button>
+                    <button class="btn btn-outline-secondary mt-3 me-2">Beam Moving Head </button>
+                    <button class="btn btn-outline-secondary mt-3 me-2">Par 64 </button>
+                    <button class="btn btn-outline-secondary mt-3 me-2">Fresnel</button>
                 </div>
                 <div class="col-sm-6 <?= $flexCenter ?>">
                     <img src="./assets/img/light.png" alt="sound 3d ilustration" width="300">

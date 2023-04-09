@@ -52,6 +52,16 @@ footer ul li a {
 }
 
 @media (max-width: 480px) {
+
+    #hero {
+        margin-top: 200px;
+    }
+
+    #sound {
+        margin-top: 50px;
+    }
+
+
     #hero img {
         margin-top: 20px;
         width: 350px;
@@ -62,7 +72,11 @@ footer ul li a {
     }
 
     #lighting {
-        margin-top: 100px;
+        margin-top: 0px;
+    }
+
+    #lighting img {
+        margin-top: 20px;
     }
 
 
