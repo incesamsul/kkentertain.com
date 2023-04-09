@@ -57,6 +57,10 @@ footer ul li a {
         width: 350px;
     }
 
+    .full-height {
+        height: auto;
+    }
+
     #lighting {
         margin-top: 100px;
     }
